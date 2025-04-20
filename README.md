@@ -2,13 +2,13 @@ This project compares the Barzilai-Borwein (BB) method and the Steepest Descent 
 
 Project Includes:
 
-1.Barzilai-Borwein method with adaptive step size
+1. Barzilai-Borwein method with adaptive step size
 
-2.Classical Steepest Descent method
+2. Classical Steepest Descent method
 
-3.Comparison of convergence behavior (iteration paths, gradient norms, and objective values)
+3. Comparison of convergence behavior (iteration paths, gradient norms, and objective values)
 
-4.2D contour plots and semilog plots for visualization
+4. 2D contour plots and semilog plots for visualization
 
 Background：
 The Barzilai-Borwein (BB) method is a gradient-based optimization algorithm proposed in 1988. It accelerates convergence by smartly choosing step sizes based on previous iterations, inspired by quasi-Newton techniques. It is especially effective for large-scale or ill-conditioned problems.
